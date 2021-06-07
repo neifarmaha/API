@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.profiel{
+  font-family:Verdana,Tahoma, sans-serif;
+  font-style: oblique;
+  background-color:rgb(62, 99, 62);
+  color:cornsilk;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  font-size: 1em;
+  line-height: 30px;
+  margin-left: 10px;
+  margin-top: 10px;
+  
+}
+.detail{
+  width: 200px;
+  border-radius: 100px;
+  background-color:#4dbb84;
+  border-color: #4dbb84;
+
+}
+
